@@ -1,0 +1,9 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+# OS metadata
+.DS_Store
+
+# ignore package-lock.lock
+package-lock.json
